@@ -14,7 +14,9 @@
 - [References](#references)
   
 ### Project Overview
-An HR analytics project focused on analysing employee attrition, identifying turnover patterns, understanding factors influencing employee exits, and developing data-driven strategies to improve employee retention.
+This project analyses employee turnover to understand why employees leave and identify ways organisations can improve staff retention.
+
+<img width="599" height="336" alt="Project" src="https://github.com/user-attachments/assets/757238d3-5e22-4492-888f-5c91970b6316" />
 
 ### Data Source
 
