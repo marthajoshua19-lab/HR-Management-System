@@ -17,7 +17,8 @@
 
 This project analyses employee turnover to understand why employees leave and identify ways organisations can improve staff retention.
 
-<img width="602" height="340" alt="Screenshot 2026-11-25 123644" src="https://github.com/user-attachments/assets/933c0efa-c65a-42f9-b935-bc34e76b2b4b" />
+<img width="606" height="341" alt="Dashboard 1" src="https://github.com/user-attachments/assets/65def364-e9ed-442f-92a9-efda381e65ba" />
+
 
 
 ### Data Source
